@@ -1,0 +1,4 @@
+/snap/clion/112/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/raph/Desktop/OneDrive/Universite/Hiver 2020/Systeme exploitation/TP4/tp4"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/raph/Desktop/OneDrive/Universite/Hiver 2020/Systeme exploitation/TP4/tp4/cmake-build-debug
